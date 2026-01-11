@@ -1,0 +1,49 @@
+[
+  { "id": 1, "monthIndex": 1, "title": "Smile", "description": "Smile at 3 strangers today to spread positivity." },
+  { "id": 2, "monthIndex": 1, "title": "Qur'an", "description": "Read at least one page of the Qur'an with reflection." },
+  { "id": 3, "monthIndex": 1, "title": "Charity", "description": "Give a small amount of charity, even if it's just a kind word." },
+  
+  { "id": 4, "monthIndex": 2, "title": "Kindness", "description": "Help a family member with a chore without being asked." },
+  { "id": 5, "monthIndex": 2, "title": "Dhikr", "description": "Keep your tongue moist with the remembrance of Allah while working." },
+  { "id": 6, "monthIndex": 2, "title": "Knowledge", "description": "Learn one new Name of Allah and its meaning." },
+  
+  { "id": 7, "monthIndex": 3, "title": "Patience", "description": "Practice patience in a frustrating situation today." },
+  { "id": 8, "monthIndex": 3, "title": "Prayer", "description": "Pray at least one Sunnah prayer today." },
+  { "id": 9, "monthIndex": 3, "title": "Gratitude", "description": "Write down 3 things you are grateful for today." },
+  
+  { "id": 10, "monthIndex": 4, "title": "Environment", "description": "Pick up litter or plant something small." },
+  { "id": 11, "monthIndex": 4, "title": "Family", "description": "Spend 30 minutes of quality time with a loved one." },
+  { "id": 12, "monthIndex": 4, "title": "Health", "description": "Drink enough water and eat something healthy with Bismillah." },
+  
+  { "id": 13, "monthIndex": 5, "title": "Forgiveness", "description": "Forgive someone who has wronged you in the past." },
+  { "id": 14, "monthIndex": 5, "title": "Honesty", "description": "Be extra mindful of your words and stay truthful all day." },
+  { "id": 15, "monthIndex": 5, "title": "Modesty", "description": "Practice modesty in your actions and speech." },
+  
+  { "id": 16, "monthIndex": 6, "title": "Neighbor", "description": "Check on a neighbor or send them a small gift/food." },
+  { "id": 17, "monthIndex": 6, "title": "Silence", "description": "Avoid arguing or complaining for the entire day." },
+  { "id": 18, "monthIndex": 6, "title": "Dua", "description": "Make a long, sincere Dua for the Ummah after a prayer." },
+  
+  { "id": 19, "monthIndex": 7, "title": "Fasting", "description": "Try to fast a voluntary day (like Monday or Thursday)." },
+  { "id": 20, "monthIndex": 7, "title": "Cleanliness", "description": "Clean a part of your house or workspace as an act of worship." },
+  { "id": 21, "monthIndex": 7, "title": "Generosity", "description": "Share your meal or a snack with someone else." },
+  
+  { "id": 22, "monthIndex": 8, "title": "Wisdom", "description": "Read a short story from the lives of the Sahaba." },
+  { "id": 23, "monthIndex": 8, "title": "Focus", "description": "Pray your Salah today with extra focus and calmness." },
+  { "id": 24, "monthIndex": 8, "title": "Humility", "description": "Acknowledge your mistakes and seek forgiveness." },
+  
+  { "id": 25, "monthIndex": 9, "title": "Ramadan Spirit", "description": "Feed a fasting person or prepare a small Iftar for others." },
+  { "id": 26, "monthIndex": 9, "title": "Night Prayer", "description": "Pray two Raka'ahs of Tahajjud before Fajr." },
+  { "id": 27, "monthIndex": 9, "title": "Generosity", "description": "Increase your daily charity during this month." },
+  
+  { "id": 28, "monthIndex": 10, "title": "Consistency", "description": "Maintain a small good habit you started in Ramadan." },
+  { "id": 29, "monthIndex": 10, "title": "Joy", "description": "Bring joy to a child's heart with a small gift or kind word." },
+  { "id": 30, "monthIndex": 10, "title": "Reflection", "description": "Spend 10 minutes in silence reflecting on Allah's creation." },
+  
+  { "id": 31, "monthIndex": 11, "title": "Supplication", "description": "Memorize a new short Dua from the Sunnah." },
+  { "id": 32, "monthIndex": 11, "title": "Strength", "description": "Help someone carry something heavy or assist them physically." },
+  { "id": 33, "monthIndex": 11, "title": "Time", "description": "Use your free time today for something beneficial, not just scrolling." },
+  
+  { "id": 34, "monthIndex": 12, "title": "Review", "description": "Look back at your year and thank Allah for all the blessings." },
+  { "id": 35, "monthIndex": 12, "title": "Commitment", "description": "Make a firm intention for a new spiritual goal for next year." },
+  { "id": 36, "monthIndex": 12, "title": "Legacy", "description": "Teach someone a small piece of beneficial knowledge." }
+]
